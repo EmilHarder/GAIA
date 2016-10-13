@@ -1,0 +1,7 @@
+*** Scanning for recording devices ***
+Card 0, ID `HDMI', name `HDA Intel HDMI'
+Card 1, ID `PCH', name `HDA Intel PCH'
+  Device 0, ID `ALC3239 Analog', name `ALC3239 Analog', 1 subdevices (1 available)
+    2 channels, sampling rate 44100..192000 Hz
+    Sample formats: S16_LE, S32_LE
+      Subdevice 0, name `subdevice #0'
